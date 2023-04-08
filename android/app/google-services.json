@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390525804864",
+    "project_id": "blood2door",
+    "storage_bucket": "blood2door.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390525804864:android:ecbfc163cb3629ecaddaa5",
+        "android_client_info": {
+          "package_name": "com.blood2door.blood2door"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390525804864-mj8jl9bnesaf299trrfht1bb94sm3j32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Xx4YrDdsZwV8pCRZe6KiAbxwWZ0-M70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390525804864-mj8jl9bnesaf299trrfht1bb94sm3j32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
